@@ -1,1 +1,3 @@
-#schiffe-versenken
+#Schiffe Versenken
+
+print("Hello world")
